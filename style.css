@@ -1,0 +1,204 @@
+/*sidelines*/
+h1 {color: rgb(0, 114, 114); padding-top: 50px; padding-bottom: 20px; font-family: Impact; text-align: center; font-size: 60px; margin-bottom: 0px; margin-top: 0px;} 
+body {background-color:rgb(0, 128, 255); font-family: sans-serif; background-image: url(https://www.teahub.io/photos/full/135-1351062_background-anime-wallpaper-hd.jpg);}
+
+footer {text-align: center; color: red; font-family: Indie Flower; font-size: 30px;}
+.backgroundc {background-color: rgb(93, 255, 255); width: 100%;}
+
+.textbg {font-family: Helvetica; background-color: rgb(93, 255, 255); padding: 10px; width: 20%} 
+
+/*toppart*/
+.toppart {
+    width: 97%; 
+    padding-left: 20px; 
+    padding-right: 20px;
+}
+.balls {text-align: right; width: 50%; font-size: 30px; font-family: lobster; margin-bottom: 0px; margin-top: 0px; color: rgb(0, 179, 179);}
+.bizzare {font-size: 30px; font-family: lobster; margin-bottom: 0px; margin-top: 0px; width: 50%; text-align: left; color: rgb(0, 179, 179);}
+.item p {display: inline-block;}
+/*images*/
+.images {
+    width: 96%;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    box-shadow: 0px 0px 20px 10px rgba(0, 0, 255, 0.8);
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(0, 110, 110);
+}
+.shadow {
+    background-color: rgb(0, 110, 110);
+}
+.smaller-image { 
+    border-color: rgb(0, 107, 207); 
+    border-width: 5px; 
+    border-style: solid; 
+    height: 150px; 
+    width: 225px;
+    text-align: center; 
+}
+.anya {
+    width: 80px;
+    height: 50px; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-bottom: 0px; 
+    border-width: 5px; 
+    border-color:rgb(0, 117, 117); 
+    border-style: solid; 
+    border-radius: 3px; 
+    margin-top: -25px;
+    box-shadow: 5px 5px 20px 0 black;
+}
+
+/*fieldset*/
+fieldset {
+    background-color: rgb(3, 207, 207);
+    border-color: rgb(0, 179, 179); 
+    border-width: 10px; 
+    padding-top: 0px;
+    width: 94%;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+.bgfield {
+    background-color: rgba(6, 138, 138, 0.767);
+}
+.field2 {
+    background-color: rgb(0, 110, 110);
+    height: 131px;
+    width: 100%;
+    margin-top: -132px;
+}
+.field {
+    margin-top: -38px;
+}
+
+label {color: rgb(210, 255, 255); font-family: Indie Flower;} 
+legend {
+    color:rgb(0, 99, 99); 
+    font-family: Impact; 
+    font-size: 20px;
+}  
+
+
+
+ 
+
+/*lists*/
+.firstli {
+    padding-top: 5px;
+    padding-bottom: 5px; 
+    font-size: 20px; 
+    margin-bottom: 0px; 
+    background-color: rgb(93, 255, 255); 
+    width: 100%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    display: flex;
+}
+.secondli {
+    padding-top: 5px;
+    padding-bottom: 5px; 
+    font-size: 20px; 
+    background-color: rgb(93, 255, 255); 
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+hr {height:3px; background-color: rgb(0, 107, 207); border-color: rgb(255, 255, 255);}
+li {color:rgb(0, 99, 99);}
+
+
+/*link*/
+a:visited {color: rgb(0, 185, 185);}
+a {color: aqua}
+a:hover {color: rgb(158, 255, 255);}
+a:active {color: white;}
+
+label {font-size: 20px;}
+
+
+.me {width: 80px; height: 100px; margin-bottom: -100px; border-style: solid; border-width: 7px; border-color:rgb(0, 117, 117); border-radius: 5px; margin-left: 10px}
+
+ul {text-align: center;}
+
+/*markers*/
+.marker {width: 200px; height: 25px; margin-right: auto; margin-left: auto; margin: 10px auto;}
+.red {
+    background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+    box-shadow: 0px 0px 20px 0 rgba(83, 14, 14, 0.8);
+}
+.green {
+    background: linear-gradient(#55680D, #71F53E, #116C31);
+    box-shadow: 0px 0px  0px #3B7E20CC;
+}
+.blue {
+    background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+    box-shadow: 0px 0px 20px 0px hsla(277, 59%, 31%, 0.8);
+}
+.container {
+    background-color: rgb(255, 255, 255); 
+    padding-right: 0px; 
+    padding-left: 0px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.sleeve {
+    width: 110px;
+    height: 25px;
+    background-color: rgba(255,255,255, 0.5);
+    border-left: 10px double rgba(0, 0, 0, 75%)
+}
+.cap {
+    width: 60px;
+    height: 25px;
+}
+.cap, .sleeve {
+    display: inline-block;
+}
+/*button*/
+.btwo {
+    color: rgb(0, 114, 114);
+    border-radius: 10px;
+    background-color:rgb(0, 121, 121)
+}
+button:hover {
+    color: rgb(0, 255, 255);
+}
+button:active {
+    color: rgb(255, 0, 0)
+}
+.bone {
+    color: rgb(0, 114, 114);
+    border-radius: 10px;
+}
+button:hover {
+    color: rgb(0, 255, 255);
+}
+button:active {
+    color: rgb(255, 0, 0)
+}
+/*awesome efx*/
+.efx {
+    background: linear-gradient(90deg, rgb(0, 110, 110), aqua , rgb(0, 110, 110));
+    width: 100%; height: 25px; 
+    background-color: aqua;
+}
+.amongus {
+    position: fixed;
+    width: 3%;
+    left: 94%;
+    bottom: 37%;
+}
+.encloser {
+    right: 0px;
+}
+
+
+/* PP */
